@@ -12,4 +12,5 @@ SO THAT I can showcase my thoughts and experiences
 Git hub: https://github.com/NaryahA/Naryahs-Blog
 
 ### Screenshot 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/PersonalBlogScreenshot.png)
+![alt text](assets/images/PersonalBlogScreenshotDarkmode.png)
